@@ -1,0 +1,4 @@
+enclib
+======
+
+Go Encryption Library
